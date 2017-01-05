@@ -1,5 +1,5 @@
 ---
-title: Github Work.
+title: Github Work Day 1
 layout: post
 author: aaron.litvin
 permalink: /github-work./
