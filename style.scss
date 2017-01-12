@@ -23,7 +23,7 @@ body {
 	background-attachment: fixed;
 	background-size: 100% 100%;
         font: 18px/1.4 $helvetica;
-        color: #ffffff;
+        color: #e60000;
 }
 
 .container {
@@ -35,7 +35,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #ffffff;
+  color: #e60000;
   font-weight: bold;
 
   line-height: 1.7;
@@ -76,7 +76,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #ffffff;
+    color: #e60000;
   }
 }
 
@@ -120,7 +120,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #ffffff;
+  color: #e60000;
 }
 
 // Specify the color of the selection
