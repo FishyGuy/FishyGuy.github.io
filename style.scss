@@ -19,8 +19,11 @@ html {
 
 body {
 	background: url("http://wallpapers-and-backgrounds.net/wp-content/uploads/2016/01/dying-light-1080p-wallpaper_1.jpg");
-  font: 18px/1.4 $helvetica;
-  color: #cc0000;
+        background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+        font: 18px/1.4 $helvetica;
+        color: #cc0000;
 }
 
 .container {
