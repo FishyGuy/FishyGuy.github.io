@@ -9,7 +9,7 @@ I'm just a bit depressed really.
 
 ### More Information
 
-Good luck surviving when Kimy boy bombs us.
+Good luck surviving when Kimmy boy and Tronp bombs us.
 
 ### Contact me
 
