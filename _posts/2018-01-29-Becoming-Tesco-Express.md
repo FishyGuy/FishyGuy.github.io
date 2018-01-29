@@ -24,7 +24,7 @@ published: true
 </table>
 
 
-                                     ![image alt text]({{ site.url }}/public/mrIKGB0Lxr3pFPiV4aTcbA_img_1.png)
+![image alt text]({{ site.url }}/public/mrIKGB0Lxr3pFPiV4aTcbA_img_1.png)
 
 <table>
   <tr>
@@ -34,7 +34,7 @@ published: true
 </table>
 
 
-                                     ![image alt text]({{ site.url }}/public/mrIKGB0Lxr3pFPiV4aTcbA_img_2.png)
+![image alt text]({{ site.url }}/public/mrIKGB0Lxr3pFPiV4aTcbA_img_2.png)
 
 <table>
   <tr>
